@@ -68,19 +68,31 @@ _[Add at least 3 screenshots here after you deploy — for example:]_
 4. `screenshots/chat.png` — Ask MomCare AI conversation
 
 Example markdown once you add the images to a `screenshots/` folder in your repo:
-
 ```md
-![Home screen](screenshots/home.png)
-![Trimester tips](screenshots/tips.png)
-![Food checker](screenshots/foodchecker.png)
-![AI chat](screenshots/chat.png)
-```
 
+
+![Home screen](Screenshot_20260726-182740.png)
+
+
+
+
+![Trimester tips](Screenshot_20260726-182756.png)
+
+
+
+
+![Food checker](Screenshot_20260726-182813.png)
+
+
+
+
+![AI chat](Screenshot_20260726-182518.png)
+```
 ## g. How to run this project
 
 ### Run locally
 1. Clone the repo:
-   ```
+   
    git clone https://github.com/YOUR-USERNAME/momcare.git
    cd momcare
    ```

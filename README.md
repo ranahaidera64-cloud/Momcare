@@ -14,7 +14,7 @@ This is aimed at **expecting mothers**, particularly those who want quick, every
 
 ## b. Live App
 
-🔗 **Live URL:** _[PASTE YOUR VERCEL URL HERE after deployment, e.g. https://momcare-yourname.vercel.app]_
+https://momcare-silk.vercel.app
 
 ## c. Features
 

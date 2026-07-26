@@ -60,15 +60,6 @@ This keeps the assistant genuinely useful while staying safely educational rathe
 
 ## f. Screenshots
 
-_[Add at least 3 screenshots here after you deploy — for example:]_
-
-1. `screenshots/home.png` — Home screen with week calculator
-2. `screenshots/tips.png` — Trimester tips card
-3. `screenshots/foodchecker.png` — Food safety checker result
-4. `screenshots/chat.png` — Ask MomCare AI conversation
-
-Example markdown once you add the images to a `screenshots/` folder in your repo:
-```md
 
 
 ![Home screen](Screenshot_20260726-182740.png)
@@ -87,7 +78,6 @@ Example markdown once you add the images to a `screenshots/` folder in your repo
 
 
 ![AI chat](Screenshot_20260726-182518.png)
-```
 ## g. How to run this project
 
 ### Run locally
